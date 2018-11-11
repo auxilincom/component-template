@@ -1,4 +1,4 @@
-# ✨ Auxilin Component Template Guidlines ✨
+# ✨ Auxilin Component Guidlines ✨
 
 We created Auxilin to help ourself and others save time and build better products. was created with a single goal: help ourself and others ship better products faster. Stack team very welcome any kind of contributions. Up to date Stack already consist 10+ components. To keep things structured we introduce few guidelines which must be maintained across all Stack components. 
 
