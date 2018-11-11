@@ -1,0 +1,13 @@
+{
+  "name": "auxilin-component",
+  "description": "Auxilin is an open-source Node.JS product launch kit that saves a lot of your time 👻",
+  "author": "Auxilin",
+  "license": "MIT",
+  "devDependencies": {
+    "all-contributors-cli": "^5.4.1"
+  },
+  "scripts": {
+     "add-contributor": "all-contributors add",
+     "generate-contributors": "all-contributors generate"
+  }
+}
