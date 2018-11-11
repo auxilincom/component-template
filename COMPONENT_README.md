@@ -11,6 +11,7 @@
 [![Star on GitHub](https://img.shields.io/github/stars/auxilincom/auxilin.svg?style=social&label=Stars)](https://github.com/auxilincom/auxilin/stargazers)
 [![Follow](https://img.shields.io/twitter/follow/auxilin.svg?style=social&label=Follow)](https://twitter.com/auxilin)
 [![Tweet](https://img.shields.io/twitter/url/https/github.com/auxilincom/auxilin.svg?style=social)](https://twitter.com/intent/tweet?text=I%27m%20building%20my%20next%20product%20with%20Auxilin%20%F0%9F%9A%80.%20Check%20it%20out:%20https://github.com/auxilincom/auxilin)
+[![@auxilin](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-t.me/auxilin-blue.svg)](https://t.me/auxilin) — join our Telegram community.
 
 [Auxilin](https://auxilin.com) is a Node, React product starter kit that helps you **launch quicker**, **avoid many mistakes** and **successed**.
 
